@@ -1,0 +1,54 @@
+#text1
+{
+    margin:           3.0em auto;
+    overflow:         hidden;
+    color:            #ffffff;
+    background-color: #3fafee;
+}
+
+#text2
+{
+    margin:           3.0em auto;
+    overflow:         hidden;
+    width:            50%;
+   
+    color:            #ffffff;
+    background-color: #fbab11;
+}
+#text3
+{
+    margin:           3.0em auto;
+    overflow:         hidden;
+   
+    color:            #ffffff;
+    background-color: #d81c82;
+}
+/*slick slider start*/
+.s_slider{
+    background-color: #42bdc2;
+}
+.warraper{
+    margin: 100px 0;
+}
+.img{
+    padding: 0 10px;
+}
+/*slick slider end*/
+
+/*owl carousel start*/
+#owl-demo .item{
+  background: #42bdc2;
+  padding: 30px 0px;
+  margin: 10px;
+  color: #FFF;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  text-align: center;
+}
+
+.owl-carousel{
+    padding: 30px 0;
+}
+/*owl carousel end*/
+ 
